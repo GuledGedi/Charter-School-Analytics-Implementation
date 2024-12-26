@@ -41,3 +41,5 @@ Data Visualization: Looker Studio
 Data Analysis: Python, SQL, R, and Excel/Google Sheets 
 
 Reporting: Jupyter Notebooks, Tableau, and Looker Studio
+
+ https://lookerstudio.google.com/reporting/875adec3-17b6-43e4-8123-73e1a91adb51
