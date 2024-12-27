@@ -44,4 +44,4 @@ Reporting: Jupyter Notebooks, Tableau, and Looker Studio
 
 
 
-Dashboard Looker Studio Demo: https://lookerstudio.google.com/reporting/875adec3-17b6-43e4-8123-73e1a91adb51
+[Student Performance Dashboard Demo]([https://github.com/user-attachments/assets/607ea603-add3-4d6a-a7f3-686006d9735c](https://github.com/GuledGedi/Charter-School-Analytics-Implementation/blob/main/Student_Performance_Dashboard_Demo.pdf))
