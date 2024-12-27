@@ -1,4 +1,4 @@
-# Charter School Analytics Implementation-Data Analyst Intern Project Background
+# Charter School Analytics Implementation - Project Background
 
 Supported the implementation of a data analytics platform for a US charter school network, transitioning from basic Google tracking to a comprehensive student performance analytics system.
 
