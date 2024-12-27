@@ -3,6 +3,7 @@
 Supported the implementation of a data analytics platform for a US charter school network, transitioning from basic Google tracking to a comprehensive student performance analytics system.
 
 Challenges: 
+
 Addressed fragmented data sources across multiple campuses required manual consolidation
 
 Inefficient reporting process taking 8+ hours per comprehensive report
